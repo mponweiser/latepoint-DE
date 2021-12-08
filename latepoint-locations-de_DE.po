@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: LatePoint Addon - Locations\n"
+"POT-Creation-Date: 2021-10-30 17:40-0700\n"
+"PO-Revision-Date: 2021-12-08 21:04+0000\n"
+"Last-Translator: Michaela Speringer\n"
+"Language-Team: Deutsch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: latepoint-locations.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: de-DE\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2"
+
+#: lib/views/locations/_form.php:17
+msgid "Active"
+msgstr "Aktiv"
+
+#: lib/views/locations/_form.php:18
+msgid "Add Category"
+msgstr ""
+
+#: lib/views/locations/_form.php:103
+msgid "Add First Agent"
+msgstr ""
+
+#: latepoint-locations.php:215 lib/views/locations/index.php:13 
+#: lib/views/locations/index.php:36 lib/views/locations/index.php:50
+msgid "Add Location"
+msgstr ""
+
+#: lib/views/location_categories/new_form.php:3
+msgid "Add Location Category"
+msgstr ""
+
+#: latepoint-locations.php:195 lib/views/locations/_location_index_item.php:18
+msgid "Agents:"
+msgstr ""
+
+#: lib/views/locations/_form.php:52 lib/views/locations/_form.php:54 
+#: lib/views/locations/_form.php:60
+msgid "All"
+msgstr ""
+
+#: latepoint-locations.php:130
+msgid "All Locations"
+msgstr ""
+
+#: lib/views/location_categories/_form.php:25
+msgid "Are you sure you want to remove this category?"
+msgstr ""
+
+#: lib/views/locations/_form.php:160
+msgid ""
+"Are you sure you want to remove this location? It will remove all "
+"appointments associated with it. If you only want to temprorary disable it - "
+"it is better to just change status to disabled."
+msgstr ""
+
+#: lib/views/locations/_form.php:7
+msgid "Basic Information"
+msgstr ""
+
+#: lib/views/location_categories/_form.php:22
+msgid "Cancel"
+msgstr ""
+
+#: latepoint-locations.php:131
+msgid "Categories"
+msgstr ""
+
+#: lib/views/locations/_form.php:18
+msgid "Category"
+msgstr ""
+
+#: lib/views/location_categories/_form.php:13
+msgid "Category Image"
+msgstr ""
+
+#: lib/views/location_categories/_form.php:6 
+#: lib/views/location_categories/new_form.php:8
+msgid "Category Name"
+msgstr ""
+
+#: lib/views/location_categories/index.php:14
+msgid "Create New Category"
+msgstr ""
+
+#: lib/controllers/location_categories_controller.php:38 
+#: lib/controllers/location_categories_controller.php:39 
+#: lib/controllers/locations_controller.php:63 
+#: lib/controllers/locations_controller.php:64
+msgid "Create New Location"
+msgstr ""
+
+#: lib/views/location_categories/index.php:18
+msgid "Create New Location Category"
+msgstr ""
+
+#: lib/views/locations/_form.php:64
+msgid "Customize"
+msgstr ""
+
+#: lib/views/locations/_form.php:135
+msgid "Days With Custom Schedules"
+msgstr ""
+
+#: lib/views/location_categories/_form.php:28
+msgid "Delete Category"
+msgstr ""
+
+#: lib/views/locations/_form.php:164
+msgid "Delete Location"
+msgstr ""
+
+#: lib/views/locations/_form.php:17
+msgid "Disabled"
+msgstr ""
+
+#: latepoint-locations.php:191 lib/views/locations/_location_index_item.php:14
+msgid "Edit"
+msgstr ""
+
+#: lib/controllers/locations_controller.php:35 
+#: lib/controllers/locations_controller.php:36
+msgid "Edit Location"
+msgstr ""
+
+#: lib/controllers/locations_controller.php:175 
+#: lib/controllers/locations_controller.php:179
+msgid "Error Removing Location"
+msgstr ""
+
+#: lib/controllers/location_categories_controller.php:98
+msgid "Error Removing Location Category. Error: FJI8321"
+msgstr ""
+
+#: lib/controllers/location_categories_controller.php:102
+msgid "Error Removing Location Category. Error: SIF2348"
+msgstr ""
+
+#: lib/views/locations/_form.php:144
+msgid "Holidays & Days Off"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://latepoint.com/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "LatePoint"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "LatePoint Addon - Locations"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "LatePoint addon for locations"
+msgstr ""
+
+#: latepoint-locations.php:160
+msgid "Location"
+msgstr "Ort"
+
+#: lib/views/locations/_form.php:22
+msgid "Location Address"
+msgstr ""
+
+#: lib/controllers/location_categories_controller.php:19
+msgid "Location Categories"
+msgstr ""
+
+#: lib/controllers/location_categories_controller.php:132
+msgid "Location Categories Order Updated"
+msgstr ""
+
+#: lib/controllers/location_categories_controller.php:155
+msgid "Location Category Created."
+msgstr ""
+
+#: lib/controllers/location_categories_controller.php:95
+msgid "Location Category Removed"
+msgstr ""
+
+#: lib/controllers/location_categories_controller.php:175
+msgid "Location Category Updated. ID: "
+msgstr ""
+
+#: lib/controllers/locations_controller.php:138
+msgid "Location Created. ID:"
+msgstr ""
+
+#: lib/views/locations/_form.php:9
+msgid "Location ID:"
+msgstr ""
+
+#: lib/views/locations/_form.php:16
+msgid "Location Name"
+msgstr ""
+
+#: lib/controllers/location_categories_controller.php:118
+msgid "Location Order Updated"
+msgstr ""
+
+#: lib/views/locations/_form.php:19
+msgid "Location Photo"
+msgstr ""
+
+#: lib/controllers/locations_controller.php:172
+msgid "Location Removed"
+msgstr ""
+
+#: lib/views/locations/_form.php:114
+msgid "Location Schedule"
+msgstr ""
+
+#: lib/views/locations/_form.php:138
+msgid ""
+"Location shares custom daily schedules that you set in general settings for "
+"your company, however you can add additional days with custom hours which "
+"will be specific to this location only."
+msgstr ""
+
+#: lib/controllers/locations_controller.php:141
+msgid "Location Updated. ID:"
+msgstr ""
+
+#: lib/views/locations/_form.php:147
+msgid ""
+"Location uses the same holidays you set in general settings for your company,"
+" however you can add additional holidays for this location here."
+msgstr ""
+
+#: latepoint-locations.php:141 latepoint-locations.php:147
+msgid "Location:"
+msgstr "Ort:"
+
+#: latepoint-locations.php:128 lib/controllers/locations_controller.php:19
+msgid "Locations"
+msgstr "Orte"
+
+#: latepoint-locations.php:203 lib/views/locations/_location_index_item.php:26
+msgid "No Agents Assigned"
+msgstr ""
+
+#: lib/views/locations/_form.php:102
+msgid "No Existing Agents Found"
+msgstr ""
+
+#: lib/views/locations/index.php:47
+msgid "No Locations Found"
+msgstr ""
+
+#: lib/controllers/location_categories_controller.php:63
+msgid "Not categorized"
+msgstr ""
+
+#: lib/views/location_categories/new_form.php:9
+msgid "Quick Description"
+msgstr ""
+
+#: lib/views/location_categories/_form.php:13 lib/views/locations/_form.php:19
+msgid "Remove Image"
+msgstr ""
+
+#: lib/views/location_categories/_form.php:19
+msgid "Save Category"
+msgstr ""
+
+#: lib/views/locations/_form.php:158
+msgid "Save Changes"
+msgstr ""
+
+#: lib/views/locations/_form.php:155
+msgid "Save Location"
+msgstr ""
+
+#: lib/views/location_categories/new_form.php:14
+msgid "Save Location Category"
+msgstr ""
+
+#: lib/views/locations/_form.php:35
+msgid "Select Agents for This Location"
+msgstr ""
+
+#: lib/views/locations/_form.php:37
+msgid "Select All"
+msgstr ""
+
+#: lib/views/locations/_form.php:68
+#, php-format
+msgid "Select services that %s will be offering at this location:"
+msgstr ""
+
+#: lib/views/locations/_form.php:62
+msgid "Services Selected"
+msgstr ""
+
+#: lib/views/locations/_form.php:116
+msgid "Set Custom Schedule"
+msgstr ""
+
+#: lib/views/location_categories/_form.php:9
+msgid "Short Description"
+msgstr ""
+
+#: latepoint-locations.php:167
+msgid "Show location categories"
+msgstr ""
+
+#: lib/views/locations/_form.php:17
+msgid "Status"
+msgstr ""
+
+#: lib/views/locations/_form.php:126
+msgid "This location is using general schedule which is set in main settings"
+msgstr ""
+
+#: lib/views/locations/index.php:3
+msgid "Uncategorized"
+msgstr ""
