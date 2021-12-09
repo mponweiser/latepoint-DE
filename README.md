@@ -12,11 +12,17 @@ http://wpdocs.latepoint.com/how-to-translate-latepoint-plugin-to-your-language/
 - Gender-neutral nouns via ":"-separator, e.g.: "Betreuer:in"
 
 ## Coverage
-- LatePoint, the main plugin, upload to: `languages/loco/plugins/latepoint-{locale}.po`
-- LatePoint Addon - Locations, upload to: `languages/loco/plugins/latepoint-locations-{locale}.po`
-- LatePoint Addon - Reminders, upload to: `languages/loco/plugins/latepoint-reminders-de_DE.po`
+- **LatePoint**, the main plugin
+  - Upload to: `languages/loco/plugins/latepoint-{locale}.po`
+  - Status: fine for regular use. Some longer and/or rare strings remain untranslated.
+- **LatePoint Addon - Locations**
+  - Upload to: `languages/loco/plugins/latepoint-locations-{locale}.po` 
+  - Status: fine for regular use. Some longer and/or rare strings remain untranslated.
+- **LatePoint Addon - Reminders** 
+  - Upload to: `languages/loco/plugins/latepoint-reminders-{locale}.po`
+  - Complete.
 
-## Questions or requests?
+## Questions, feedback or requests?
 
 Feel free to contact me: m (dot) ponweiser (at) gmail (dot) com
 or, raise an issue here.
