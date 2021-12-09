@@ -14,7 +14,7 @@ http://wpdocs.latepoint.com/how-to-translate-latepoint-plugin-to-your-language/
 ## Coverage
 - LatePoint, the main plugin, upload to: `languages/loco/plugins/latepoint-{locale}.po`
 - LatePoint Addon - Locations, upload to: `languages/loco/plugins/latepoint-locations-{locale}.po`
-- LatePoint Addon - Reminders, upload to: 
+- LatePoint Addon - Reminders, upload to: `languages/loco/plugins/latepoint-reminders-de_DE.po`
 
 ## Questions or requests?
 
