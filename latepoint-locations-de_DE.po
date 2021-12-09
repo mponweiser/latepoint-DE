@@ -3,8 +3,8 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "Project-Id-Version: LatePoint Addon - Locations\n"
 "POT-Creation-Date: 2021-10-30 17:40-0700\n"
-"PO-Revision-Date: 2021-12-08 21:04+0000\n"
-"Last-Translator: Michaela Speringer\n"
+"PO-Revision-Date: 2021-12-09 08:36+0000\n"
+"Last-Translator: \n"
 "Language-Team: Deutsch\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,33 +29,33 @@ msgstr "Aktiv"
 
 #: lib/views/locations/_form.php:18
 msgid "Add Category"
-msgstr ""
+msgstr "Kategorie hinzufügen"
 
 #: lib/views/locations/_form.php:103
 msgid "Add First Agent"
-msgstr ""
+msgstr "Stammdaten"
 
 #: latepoint-locations.php:215 lib/views/locations/index.php:13 
 #: lib/views/locations/index.php:36 lib/views/locations/index.php:50
 msgid "Add Location"
-msgstr ""
+msgstr "Ort hinzufügen"
 
 #: lib/views/location_categories/new_form.php:3
 msgid "Add Location Category"
-msgstr ""
+msgstr "Ortskategorie hinzufügen"
 
 #: latepoint-locations.php:195 lib/views/locations/_location_index_item.php:18
 msgid "Agents:"
-msgstr ""
+msgstr "Betreuer:innen:"
 
 #: lib/views/locations/_form.php:52 lib/views/locations/_form.php:54 
 #: lib/views/locations/_form.php:60
 msgid "All"
-msgstr ""
+msgstr "Alle"
 
 #: latepoint-locations.php:130
 msgid "All Locations"
-msgstr ""
+msgstr "Alle Orte"
 
 #: lib/views/location_categories/_form.php:25
 msgid "Are you sure you want to remove this category?"
@@ -70,77 +70,77 @@ msgstr ""
 
 #: lib/views/locations/_form.php:7
 msgid "Basic Information"
-msgstr ""
+msgstr "Stammdaten"
 
 #: lib/views/location_categories/_form.php:22
 msgid "Cancel"
-msgstr ""
+msgstr "Abbrechen"
 
 #: latepoint-locations.php:131
 msgid "Categories"
-msgstr ""
+msgstr "Kategorien"
 
 #: lib/views/locations/_form.php:18
 msgid "Category"
-msgstr ""
+msgstr "Kategorie"
 
 #: lib/views/location_categories/_form.php:13
 msgid "Category Image"
-msgstr ""
+msgstr "Kategoriebild"
 
 #: lib/views/location_categories/_form.php:6 
 #: lib/views/location_categories/new_form.php:8
 msgid "Category Name"
-msgstr ""
+msgstr "Name der Kategorie"
 
 #: lib/views/location_categories/index.php:14
 msgid "Create New Category"
-msgstr ""
+msgstr "Neue Kategorie erstellen"
 
 #: lib/controllers/location_categories_controller.php:38 
 #: lib/controllers/location_categories_controller.php:39 
 #: lib/controllers/locations_controller.php:63 
 #: lib/controllers/locations_controller.php:64
 msgid "Create New Location"
-msgstr ""
+msgstr "Neuen Ort erstellen"
 
 #: lib/views/location_categories/index.php:18
 msgid "Create New Location Category"
-msgstr ""
+msgstr "Neue Ortskategorie erstellen"
 
 #: lib/views/locations/_form.php:64
 msgid "Customize"
-msgstr ""
+msgstr "Anpassen"
 
 #: lib/views/locations/_form.php:135
 msgid "Days With Custom Schedules"
-msgstr ""
+msgstr "Individuelle Zeitpläne"
 
 #: lib/views/location_categories/_form.php:28
 msgid "Delete Category"
-msgstr ""
+msgstr "Kategorie löschen"
 
 #: lib/views/locations/_form.php:164
 msgid "Delete Location"
-msgstr ""
+msgstr "Ort löschen"
 
 #: lib/views/locations/_form.php:17
 msgid "Disabled"
-msgstr ""
+msgstr "Deaktiviert"
 
 #: latepoint-locations.php:191 lib/views/locations/_location_index_item.php:14
 msgid "Edit"
-msgstr ""
+msgstr "Bearbeiten"
 
 #: lib/controllers/locations_controller.php:35 
 #: lib/controllers/locations_controller.php:36
 msgid "Edit Location"
-msgstr ""
+msgstr "Ort bearbeiten"
 
 #: lib/controllers/locations_controller.php:175 
 #: lib/controllers/locations_controller.php:179
 msgid "Error Removing Location"
-msgstr ""
+msgstr "Fehler beim Löschen des Ortes"
 
 #: lib/controllers/location_categories_controller.php:98
 msgid "Error Removing Location Category. Error: FJI8321"
@@ -152,7 +152,7 @@ msgstr ""
 
 #: lib/views/locations/_form.php:144
 msgid "Holidays & Days Off"
-msgstr ""
+msgstr "Urlaub und arbeitsfreie Tage"
 
 #. Plugin URI of the plugin/theme
 #. Author URI of the plugin/theme
@@ -177,11 +177,11 @@ msgstr "Ort"
 
 #: lib/views/locations/_form.php:22
 msgid "Location Address"
-msgstr ""
+msgstr "Adresse"
 
 #: lib/controllers/location_categories_controller.php:19
 msgid "Location Categories"
-msgstr ""
+msgstr "Ortskategorien"
 
 #: lib/controllers/location_categories_controller.php:132
 msgid "Location Categories Order Updated"
@@ -189,11 +189,11 @@ msgstr ""
 
 #: lib/controllers/location_categories_controller.php:155
 msgid "Location Category Created."
-msgstr ""
+msgstr "Ortskategorie erstellt."
 
 #: lib/controllers/location_categories_controller.php:95
 msgid "Location Category Removed"
-msgstr ""
+msgstr "Ortskategorie gelöscht"
 
 #: lib/controllers/location_categories_controller.php:175
 msgid "Location Category Updated. ID: "
@@ -201,7 +201,7 @@ msgstr ""
 
 #: lib/controllers/locations_controller.php:138
 msgid "Location Created. ID:"
-msgstr ""
+msgstr "Ort erstellt. ID:"
 
 #: lib/views/locations/_form.php:9
 msgid "Location ID:"
@@ -209,23 +209,23 @@ msgstr ""
 
 #: lib/views/locations/_form.php:16
 msgid "Location Name"
-msgstr ""
+msgstr "Ortsname"
 
 #: lib/controllers/location_categories_controller.php:118
 msgid "Location Order Updated"
-msgstr ""
+msgstr "Ortsreihenfolge aktualisiert"
 
 #: lib/views/locations/_form.php:19
 msgid "Location Photo"
-msgstr ""
+msgstr "Foto vom Ort"
 
 #: lib/controllers/locations_controller.php:172
 msgid "Location Removed"
-msgstr ""
+msgstr "Ort gelöscht"
 
 #: lib/views/locations/_form.php:114
 msgid "Location Schedule"
-msgstr ""
+msgstr "Zugewiesener Stundenplan"
 
 #: lib/views/locations/_form.php:138
 msgid ""
@@ -254,72 +254,72 @@ msgstr "Orte"
 
 #: latepoint-locations.php:203 lib/views/locations/_location_index_item.php:26
 msgid "No Agents Assigned"
-msgstr ""
+msgstr "Keine Betreuer:innen zugewiesen"
 
 #: lib/views/locations/_form.php:102
 msgid "No Existing Agents Found"
-msgstr ""
+msgstr "Keine vorhandenen Betreuer:innen gefunden"
 
 #: lib/views/locations/index.php:47
 msgid "No Locations Found"
-msgstr ""
+msgstr "Kein Ort gefunden"
 
 #: lib/controllers/location_categories_controller.php:63
 msgid "Not categorized"
-msgstr ""
+msgstr "ohne Kategorie"
 
 #: lib/views/location_categories/new_form.php:9
 msgid "Quick Description"
-msgstr ""
+msgstr "Kurzbeschreibung"
 
 #: lib/views/location_categories/_form.php:13 lib/views/locations/_form.php:19
 msgid "Remove Image"
-msgstr ""
+msgstr "Bild entfernen"
 
 #: lib/views/location_categories/_form.php:19
 msgid "Save Category"
-msgstr ""
+msgstr "Kategorie speichern"
 
 #: lib/views/locations/_form.php:158
 msgid "Save Changes"
-msgstr ""
+msgstr "Änderungen speichern"
 
 #: lib/views/locations/_form.php:155
 msgid "Save Location"
-msgstr ""
+msgstr "Ort speichern"
 
 #: lib/views/location_categories/new_form.php:14
 msgid "Save Location Category"
-msgstr ""
+msgstr "Ortskategorie speichern"
 
 #: lib/views/locations/_form.php:35
 msgid "Select Agents for This Location"
-msgstr ""
+msgstr "Betreuer:innen zuteilen"
 
 #: lib/views/locations/_form.php:37
 msgid "Select All"
-msgstr ""
+msgstr "Alle auswählen"
 
 #: lib/views/locations/_form.php:68
 #, php-format
 msgid "Select services that %s will be offering at this location:"
-msgstr ""
+msgstr "Angebote von %s für diesen Ort festlegen:"
 
 #: lib/views/locations/_form.php:62
 msgid "Services Selected"
-msgstr ""
+msgstr "Angebote ausgewählt"
 
 #: lib/views/locations/_form.php:116
 msgid "Set Custom Schedule"
-msgstr ""
+msgstr "Eigene Zeitpläne definieren"
 
 #: lib/views/location_categories/_form.php:9
 msgid "Short Description"
-msgstr ""
+msgstr "Kurzbeschreibung"
 
 #: latepoint-locations.php:167
 msgid "Show location categories"
-msgstr ""
+msgstr "Ortskategorien anzeigen"
 
 #: lib/views/locations/_form.php:17
 msgid "Status"
@@ -328,7 +328,8 @@ msgstr ""
 #: lib/views/locations/_form.php:126
 msgid "This location is using general schedule which is set in main settings"
 msgstr ""
+"Dieser Ort verwendet den generellen Stundenplan (siehe \"Einstellungen\")"
 
 #: lib/views/locations/index.php:3
 msgid "Uncategorized"
-msgstr ""
+msgstr "ohne Kategorie"
