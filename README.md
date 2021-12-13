@@ -1,10 +1,10 @@
 # latepoint-DE
+
 German translation files for [LatePoint](https://latepoint.com/), a WordPress plugin 
 
 ## How to use
 
 http://wpdocs.latepoint.com/how-to-translate-latepoint-plugin-to-your-language/
-
 
 ## Package-wide translation rules
 
@@ -12,16 +12,21 @@ http://wpdocs.latepoint.com/how-to-translate-latepoint-plugin-to-your-language/
 - Gender-neutral nouns via ":"-separator, e.g.: "Betreuer:in"
 
 ## Coverage
+
 - **LatePoint**, the main plugin
   - Upload to: `languages/loco/plugins/latepoint-{locale}.po`
   - Status: fine for regular use. Some longer and/or rare strings remain untranslated.
-  - Error messages remain untranslated.
+  - Internal error messages remain untranslated (for forwarding).
 - **LatePoint Addon - Locations**
   - Upload to: `languages/loco/plugins/latepoint-locations-{locale}.po` 
   - Status: fine for regular use. Some longer and/or rare strings remain untranslated.
 - **LatePoint Addon - Reminders** 
   - Upload to: `languages/loco/plugins/latepoint-reminders-{locale}.po`
   - Complete.
+
+## Intention
+
+I am sharing this translation in the hope that someone else will find it useful as well. I am open to further discussion and cooperation.
 
 ## Questions, feedback or requests?
 
