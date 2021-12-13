@@ -3,7 +3,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "Project-Id-Version: LatePoint\n"
 "POT-Creation-Date: 2021-10-30 17:40-0700\n"
-"PO-Revision-Date: 2021-12-09 08:36+0000\n"
+"PO-Revision-Date: 2021-12-13 18:24+0000\n"
 "Last-Translator: \n"
 "Language-Team: Deutsch\n"
 "MIME-Version: 1.0\n"
@@ -58,7 +58,7 @@ msgstr "Kopiert"
 
 #: latepoint.php:836
 msgid "Click to copy"
-msgstr ""
+msgstr "Zum Kopieren anklicken"
 
 #: latepoint.php:837
 msgid "Are you sure you want to approve this booking?"
@@ -247,7 +247,7 @@ msgstr "Betreuer:in E-Mail"
 #: lib/views/customers/_booking_tile.php:21 lib/views/services/_form.php:22 
 #: lib/views/transactions/index.php:14 lib/views/transactions/index.php:52
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: lib/controllers/bookings_controller.php:165
 msgid "Booked On"
@@ -393,7 +393,7 @@ msgstr "Buchungen"
 #: lib/controllers/controller.php:48 
 #: lib/controllers/dashboard_controller.php:18 lib/helpers/menu_helper.php:47
 msgid "Dashboard"
-msgstr ""
+msgstr "Dashboard"
 
 #: lib/controllers/customers_controller.php:26 lib/helpers/menu_helper.php:71 
 #: lib/views/calendars/daily_agent.php:113 
@@ -404,7 +404,7 @@ msgstr "Kund:innen"
 
 #: lib/controllers/customers_controller.php:34
 msgid "Customer Removed"
-msgstr ""
+msgstr "Kund:in entfernt"
 
 #: lib/controllers/customers_controller.php:37 
 #: lib/controllers/customers_controller.php:41
@@ -423,7 +423,7 @@ msgstr "Kund:in bearbeiten"
 #: lib/controllers/customers_controller.php:101 
 #: lib/controllers/settings_controller.php:370
 msgid "Customer Created. ID:"
-msgstr ""
+msgstr "Kund:in erstellt. ID#:"
 
 #: lib/controllers/customers_controller.php:131
 msgid "Information Saved"
@@ -431,15 +431,15 @@ msgstr "Information wurde gespeichert"
 
 #: lib/controllers/customers_controller.php:164
 msgid "Customers Connected"
-msgstr ""
+msgstr "Kund:in(nen) verknüpft"
 
 #: lib/controllers/customers_controller.php:176
 msgid "Customer Disconnected"
-msgstr ""
+msgstr "Verknüpfung zu Kund:in getrennt"
 
 #: lib/controllers/customers_controller.php:188
 msgid "Customer Connected"
-msgstr ""
+msgstr "Kund:in verknüpft"
 
 #: lib/controllers/customers_controller.php:199
 msgid "Invalid password or email"
@@ -540,12 +540,12 @@ msgstr "Einstellungen"
 #: lib/controllers/notifications_controller.php:55 
 #: lib/helpers/menu_helper.php:97
 msgid "SMS Templates"
-msgstr "SMS Vorlagen"
+msgstr "SMS-Vorlagen"
 
 #: lib/controllers/notifications_controller.php:63 
 #: lib/helpers/menu_helper.php:98
 msgid "Email Templates"
-msgstr "E-Mail Vorlagen"
+msgstr "E-Mail-Vorlagen"
 
 #: lib/controllers/notifications_controller.php:73
 msgid "Appointment Confirmation Sent"
@@ -687,15 +687,15 @@ msgstr "Ungültiges Datum"
 
 #: lib/controllers/settings_controller.php:111
 msgid "Step Settings"
-msgstr "Einstellungen Schritte"
+msgstr "Einstellungen Buchungsschritte"
 
 #: lib/controllers/settings_controller.php:127
 msgid "Step Updated: "
-msgstr ""
+msgstr "Buchungsschritt aktualisiert:"
 
 #: lib/controllers/settings_controller.php:150
 msgid "Step Ordering Updated "
-msgstr ""
+msgstr "Reihenfolge der Buchungsschritte aktualisiert"
 
 #: lib/controllers/settings_controller.php:170
 msgid "Columns Saved"
@@ -809,7 +809,7 @@ msgstr "Angebot hinzufügen"
 #: lib/helpers/booking_helper.php:6
 #, php-format
 msgid "Appointment with %s for %s"
-msgstr ""
+msgstr "Termin mit %s für %s"
 
 #: lib/helpers/booking_helper.php:91
 msgid "Work Hours"
@@ -860,7 +860,7 @@ msgstr "Alle Orte"
 
 #: lib/helpers/booking_helper.php:1080
 msgid "Undefined Status"
-msgstr ""
+msgstr "Status nicht definiert"
 
 #: lib/helpers/booking_helper.php:1085
 msgid "Approved"
@@ -957,7 +957,7 @@ msgstr ""
 
 #: lib/helpers/form_helper.php:232
 msgid "Pick a color"
-msgstr ""
+msgstr "Farbe auswählen"
 
 #: lib/helpers/license_helper.php:43
 msgid "Please enter your license key"
@@ -1049,7 +1049,7 @@ msgstr "Stundenplan"
 
 #: lib/helpers/menu_helper.php:86
 msgid "Steps"
-msgstr "Schritte"
+msgstr "Buchungsschritte"
 
 #: lib/helpers/menu_helper.php:87
 msgid "Payments"
@@ -1057,7 +1057,7 @@ msgstr "Bezahlungen"
 
 #: lib/helpers/menu_helper.php:90
 msgid "Updates"
-msgstr ""
+msgstr "Aktualisierungen"
 
 #: lib/helpers/menu_helper.php:104
 msgid "Developer"
@@ -1069,11 +1069,11 @@ msgstr "Setup-Wizard"
 
 #: lib/helpers/menu_helper.php:107
 msgid "Demo Data Install"
-msgstr ""
+msgstr "Demodaten-Installation"
 
 #: lib/helpers/menu_helper.php:108
 msgid "Database Install"
-msgstr ""
+msgstr "Datenbank-Installation"
 
 #: lib/helpers/payments_helper.php:42
 msgid "Pay Locally"
@@ -1085,11 +1085,11 @@ msgstr "Name der Erinnerung darf nicht leer sein"
 
 #: lib/helpers/reminders_helper.php:88
 msgid "Unit has to be selected"
-msgstr ""
+msgstr "Einheit muss ausgewählt werden"
 
 #: lib/helpers/reminders_helper.php:89
 msgid "Before or after has to be selected"
-msgstr ""
+msgstr "Davor oder danach muss ausgewählt werden"
 
 #: lib/helpers/reminders_helper.php:90
 msgid "Select if SMS or Email Reminder"
@@ -1097,11 +1097,11 @@ msgstr "Auswählen, ob Erinnerung via SMS oder E-Mail"
 
 #: lib/helpers/reminders_helper.php:91
 msgid "Reminder message content can not be blank"
-msgstr ""
+msgstr "Erinnerungsnachricht darf nicht leer sein"
 
 #: lib/helpers/reminders_helper.php:93
 msgid "Value has to be greater than zero"
-msgstr ""
+msgstr "Wert muss größer Null sein"
 
 # nicht vorhanden
 #: lib/helpers/replacer_helper.php:52 lib/views/customers/_table_body.php:21
@@ -1118,7 +1118,7 @@ msgstr "Seite nicht gefunden"
 
 #: lib/helpers/service_helper.php:88
 msgid "Services Linked"
-msgstr ""
+msgstr "Verlinkte Angebote"
 
 #: lib/helpers/settings_helper.php:261 lib/models/agent_model.php:32 
 #: lib/views/agents/_form.php:25 
@@ -1164,7 +1164,7 @@ msgstr ""
 
 #: lib/helpers/steps_helper.php:60
 msgid "Since you only have one location, this step will be skipped"
-msgstr ""
+msgstr "Nur ein Ort vorhanden, daher wird Buchungsschritt übersprungen"
 
 #: lib/helpers/steps_helper.php:63
 msgid "Payment processing is disabled. Click to setup."
@@ -1172,7 +1172,7 @@ msgstr ""
 
 #: lib/helpers/steps_helper.php:73
 msgid "Step Title"
-msgstr "Titel dieses Schrittes"
+msgstr "Titel dieses Buchungsschrittes"
 
 #: lib/helpers/steps_helper.php:76
 msgid "Step Sub Title"
@@ -1189,12 +1189,12 @@ msgstr "Eigenes Bild für diesen Schritt verwenden"
 
 #: lib/helpers/steps_helper.php:88 lib/views/services/_form.php:42
 msgid "Step Image"
-msgstr ""
+msgstr "Bild für diesen Buchungsschritt"
 
 #: lib/helpers/steps_helper.php:88 lib/views/service_categories/_form.php:13 
 #: lib/views/services/_form.php:42 lib/views/wizard/steps/_form_service.php:12
 msgid "Remove Image"
-msgstr ""
+msgstr "Bild entfernen"
 
 #: lib/helpers/steps_helper.php:95
 msgid "Save Step"
@@ -1206,7 +1206,7 @@ msgstr "Schritt speichern"
 #: lib/views/wizard/steps/_form_agent.php:26 
 #: lib/views/wizard/steps/_form_service.php:35
 msgid "Cancel"
-msgstr "Stornieren"
+msgstr "Abbrechen"
 
 #: lib/helpers/steps_helper.php:594
 msgid "Another customer is registered with this email."
@@ -1277,7 +1277,7 @@ msgstr ""
 
 #: lib/helpers/util_helper.php:23
 msgid "Show Available Variables"
-msgstr ""
+msgstr "Verfügbare Variablen anzeigen"
 
 #: lib/helpers/util_helper.php:144 lib/helpers/util_helper.php:163
 msgid "January"
@@ -1388,6 +1388,8 @@ msgstr "Geplante Zeitfläche bearbeiten"
 #: lib/helpers/work_periods_helper.php:318
 msgid "Are you sure you want to remove custom schedule for this date range?"
 msgstr ""
+"Sind Sie sicher, dass Sie diese individuelle Zeitfläche für diese(n) Tag(e) "
+"entfernen möchten?"
 
 #: lib/helpers/work_periods_helper.php:318
 msgid "Remove Date Range Schedule"
@@ -1401,10 +1403,12 @@ msgstr "Tagesplan bearbeiten"
 #: lib/helpers/work_periods_helper.php:345
 msgid "Are you sure you want to remove custom schedule for this day?"
 msgstr ""
+"Sind Sie sicher, dass Sie diese individuelle Zeitfläche für diesen Tag "
+"entfernen möchten?"
 
 #: lib/helpers/work_periods_helper.php:345
 msgid "Remove Day Schedule"
-msgstr ""
+msgstr "Tagesplan enfernen"
 
 #: lib/helpers/work_periods_helper.php:368 
 #: lib/helpers/work_periods_helper.php:443
@@ -1414,6 +1418,7 @@ msgstr "Tag hinzufügen"
 #: lib/helpers/work_periods_helper.php:413
 msgid "Are you sure you want to remove day off range?"
 msgstr ""
+"Sind Sie sicher, dass Sie diese arbeitsfreie(n) Tag(e) entfernen möchten?"
 
 #: lib/helpers/work_periods_helper.php:413
 msgid "Remove Day Off Range"
@@ -1421,11 +1426,11 @@ msgstr ""
 
 #: lib/helpers/work_periods_helper.php:431
 msgid "Are you sure you want to remove this day off?"
-msgstr ""
+msgstr "Sind Sie sicher, dass Sie diesen arbeitsfreien Tag entfernen möchten?"
 
 #: lib/helpers/work_periods_helper.php:431
 msgid "Remove Day Off"
-msgstr ""
+msgstr "Arbeitsfreien Tag entfernen"
 
 #: lib/helpers/work_periods_helper.php:533
 #, php-format
@@ -1435,7 +1440,7 @@ msgstr "+%d mehr"
 #: lib/helpers/work_periods_helper.php:562
 #, php-format
 msgid "Add another work period for %s"
-msgstr ""
+msgstr "Zeitfläche hinzufügen für %s"
 
 #: lib/mailers/agent_mailer.php:34
 msgid "New Appointment Notification"
@@ -1459,7 +1464,7 @@ msgstr "Neue Kund:in registrieren"
 
 #: lib/models/activity_model.php:28
 msgid "Customer Profile Update"
-msgstr ""
+msgstr "Update Kund:innen-Profil"
 
 #: lib/models/activity_model.php:29 lib/views/bookings/_form.php:5 
 #: lib/views/bookings/_quick_form.php:9 lib/views/customers/dashboard.php:8 
@@ -1514,7 +1519,7 @@ msgstr "Passwort"
 
 #: lib/models/agent_model.php:35
 msgid "Connected WordPress User"
-msgstr ""
+msgstr "Verknüpfte/r WordPress-Benutzer:in"
 
 #: lib/models/booking_model.php:174
 msgid ""
@@ -1614,7 +1619,7 @@ msgstr ""
 
 #: lib/models/service_model.php:39
 msgid "Variable Price"
-msgstr ""
+msgstr "Variabler Preis"
 
 #: lib/models/service_model.php:40 lib/views/services/_form.php:85
 msgid "Minimum Price"
@@ -1743,11 +1748,11 @@ msgstr ""
 
 #: lib/models/step_model.php:167
 msgid "Verify Order Details"
-msgstr ""
+msgstr "Bestelldetails überprüfen"
 
 #: lib/models/step_model.php:169
 msgid "Verify Booking Details"
-msgstr ""
+msgstr "Buchungsdetails überprüfen"
 
 #: lib/models/step_model.php:170
 msgid ""
@@ -1837,7 +1842,7 @@ msgstr ""
 #: lib/views/addons/load_addons_list.php:74 
 #: lib/views/updates/check_version_status.php:19
 msgid "Update Now"
-msgstr ""
+msgstr "Jetzt hochladen"
 
 #: lib/views/addons/load_addons_list.php:62
 msgid "Deactivate"
@@ -1925,7 +1930,7 @@ msgstr "Zusätzliches Bild"
 
 #: lib/views/agents/_form.php:63
 msgid "Remove Bio Image"
-msgstr ""
+msgstr "Biographie-Bild entfernen"
 
 #: lib/views/agents/_form.php:64
 msgid "Agent Title"
@@ -1948,11 +1953,11 @@ msgstr ""
 
 #: lib/views/agents/_form.php:73
 msgid "Highlight #"
-msgstr ""
+msgstr "Highlight #"
 
 #: lib/views/agents/_form.php:75 lib/views/settings/general.php:148
 msgid "Value"
-msgstr ""
+msgstr "Wert"
 
 #: lib/views/agents/_form.php:76
 msgid "Label"
@@ -2046,7 +2051,7 @@ msgstr "Betreuer:in löschen"
 
 #: lib/views/agents/index.php:13
 msgid "Connected to WordPress User"
-msgstr ""
+msgstr "Mit WordPress-Benutzer:in verknüpft"
 
 #: lib/views/agents/index.php:55
 msgid "Off Duty"
@@ -2159,7 +2164,7 @@ msgstr "Buchungspreis"
 
 #: lib/views/bookings/_quick_form.php:223
 msgid "Recalculate"
-msgstr ""
+msgstr "Neu berechnen"
 
 #: lib/views/bookings/_quick_form.php:245
 msgid "New Transaction Form"
@@ -2232,7 +2237,7 @@ msgstr "Zusätzliche Spalten anzeigen"
 
 #: lib/views/bookings/customize_table.php:7
 msgid "Customer Fields"
-msgstr ""
+msgstr "Felder von Kund:in"
 
 #: lib/views/bookings/customize_table.php:14
 msgid "Booking Fields"
@@ -2256,7 +2261,7 @@ msgstr "%d von %d"
 #: lib/views/bookings/grouped_bookings_quick_view.php:27 
 #: lib/views/dashboard/widget_upcoming_appointments.php:63
 msgid "Attendies"
-msgstr ""
+msgstr "Teilnehmende"
 
 #: lib/views/bookings/grouped_bookings_quick_view.php:38 
 #: lib/views/dashboard/widget_agents_bookings_timeline.php:128
@@ -2344,7 +2349,7 @@ msgstr "Ersten Termin hinzufügen"
 #: lib/views/bookings/pending_approval.php:14 
 #: lib/views/shared/_template_variables.php:10
 msgid "Status:"
-msgstr ""
+msgstr "Status:"
 
 #: lib/views/bookings/pending_approval.php:57
 msgid "Approve"
@@ -2387,7 +2392,7 @@ msgstr "Arbeitszeit bearbeiten"
 
 #: lib/views/calendars/daily_agent.php:92
 msgid "Daily Statistics"
-msgstr ""
+msgstr "Tagesauswertung"
 
 #: lib/views/calendars/daily_agent.php:105
 msgid "Openings"
@@ -2436,7 +2441,7 @@ msgstr "Zu Kalender hinzufügen (iCal-Datei)"
 
 #: lib/views/customers/_form.php:12
 msgid "Customer ID:"
-msgstr ""
+msgstr "Kund:innen-ID:"
 
 #: lib/views/customers/_form.php:18
 msgid "Customer has not set the passsword"
@@ -2456,7 +2461,7 @@ msgstr "Anmerkungen von Admins, nur von Admins sichtbar"
 
 #: lib/views/customers/_form.php:55
 msgid "Connected to WP User."
-msgstr ""
+msgstr "Mit WordPress-Benutzer:in verknüpft."
 
 #: lib/views/customers/_form.php:55
 msgid "View WP User Profile"
@@ -2464,7 +2469,7 @@ msgstr "WordPress-User-Profil anzeigen"
 
 #: lib/views/customers/_form.php:55
 msgid "Disconnect"
-msgstr ""
+msgstr "Verknüpfung auflösen"
 
 #: lib/views/customers/_form.php:57
 msgid "Not Connected to WP User."
@@ -2472,7 +2477,7 @@ msgstr ""
 
 #: lib/views/customers/_form.php:57
 msgid "Create WP User and Connect"
-msgstr ""
+msgstr "WordPress-Benutzer:in erstellen und verknüpfen"
 
 #: lib/views/customers/_form.php:70
 msgid "Save Customer"
@@ -2483,6 +2488,8 @@ msgid ""
 "Are you sure you want to delete this customer? It will remove all "
 "appointments and transactions associated with this customer."
 msgstr ""
+"Sind Sie sicher, dass Sie diese/n Kund:in entfernen möchten? Es werden dann "
+"auch alle damit verknüpften Termine und Transaktionen gelöscht."
 
 #: lib/views/customers/_form.php:79
 msgid "Delete Customer"
@@ -2575,7 +2582,7 @@ msgstr "Zeige Kund:innen"
 
 #: lib/views/customers/index.php:10
 msgid "Connect to WP Users"
-msgstr ""
+msgstr "Mit WP Benutzer:innen verknüpfen"
 
 #: lib/views/customers/index.php:21 lib/views/customers/index.php:61
 msgid "Full Name"
@@ -2751,7 +2758,7 @@ msgstr "Auslastungsberichte"
 
 #: lib/views/dashboard/widget_stats.php:3
 msgid "Statistics"
-msgstr ""
+msgstr "Auswertung"
 
 #: lib/views/dashboard/widget_top_agents.php:3
 msgid "Top Agents"
@@ -2768,7 +2775,7 @@ msgstr "Demnächst"
 
 #: lib/views/dashboard/widget_upcoming_appointments.php:81
 msgid "Create Another One"
-msgstr ""
+msgstr "Mehr davon erstellen"
 
 #: lib/views/dashboard/widget_upcoming_appointments.php:86
 msgid "No Upcoming Appointments"
@@ -2796,7 +2803,7 @@ msgstr "Administrator"
 
 #: lib/views/layouts/admin.php:57
 msgid "Available Template Variables"
-msgstr ""
+msgstr "Verfügbare Template-Variablen"
 
 #: lib/views/notifications/_available_vars.php:3
 msgid ""
@@ -2845,7 +2852,7 @@ msgstr "Statusänderungsmeldungen via E-Mail an Betreuer:in aktivieren"
 
 #: lib/views/notifications/email_templates.php:26
 msgid "Customer Email Notifications"
-msgstr ""
+msgstr "E-Mail-Benachrichtigungen an Kund:innen"
 
 #: lib/views/notifications/email_templates.php:29
 msgid "Enable Appointment Confirmation Email to Customer"
@@ -2857,7 +2864,7 @@ msgstr "Statusänderungsmeldungen via E-Mail an Kund:in aktivieren"
 
 #: lib/views/notifications/email_templates.php:44
 msgid "Other Customer Emails"
-msgstr ""
+msgstr "Andere Kund:innen-Mailadressen"
 
 #: lib/views/notifications/email_templates.php:47
 msgid "Customer Password Reset Request"
@@ -2889,7 +2896,7 @@ msgstr ""
 
 #: lib/views/notifications/sms_templates.php:8
 msgid "Messages to Agent"
-msgstr ""
+msgstr "Nachrichten an Betreuer:in"
 
 #: lib/views/notifications/sms_templates.php:11
 msgid "Enable Appointment Confirmation SMS to Agent"
@@ -2902,7 +2909,7 @@ msgstr "Nachrichtentext"
 
 #: lib/views/notifications/sms_templates.php:19
 msgid "Messages to Customer"
-msgstr ""
+msgstr "Nachrichten an Kund:in"
 
 #: lib/views/notifications/sms_templates.php:22
 msgid "Enable Appointment Confirmation SMS to Customer"
@@ -2970,7 +2977,7 @@ msgstr "Danach"
 
 #: lib/views/reminders/new_form.php:36
 msgid "Email Subject of Reminder"
-msgstr ""
+msgstr "Betreff von E-Mail-Erinnerung"
 
 #: lib/views/reminders/new_form.php:41
 msgid "Message"
@@ -2982,7 +2989,7 @@ msgstr "Speichern"
 
 #: lib/views/reminders/new_form.php:48
 msgid "Are you sure you want to remove this reminder?"
-msgstr ""
+msgstr "Sind Sie sicher, dass Sie diese Erinnerung entfernen möchten?"
 
 #: lib/views/search/query_results.php:13
 msgid "No Matched Customers found."
@@ -3011,7 +3018,7 @@ msgstr "Kategorie speichern"
 
 #: lib/views/service_categories/_form.php:25
 msgid "Are you sure you want to remove this category?"
-msgstr ""
+msgstr "Sind Sie sicher, dass Sie diese Kategorie entfernen möchten?"
 
 #: lib/views/service_categories/_form.php:28
 msgid "Delete Category"
@@ -3089,7 +3096,7 @@ msgstr "Angebotsdauer (Minuten)"
 
 #: lib/views/services/_form.php:79
 msgid "Display Price"
-msgstr ""
+msgstr "Angezeigter Preis"
 
 #: lib/views/services/_form.php:82
 msgid ""
@@ -3151,6 +3158,9 @@ msgid ""
 "appointments associated with it. You can also change status to disabled if "
 "you want to temprorary disable it instead."
 msgstr ""
+"Sind Sie sicher, dass Sie dieses Angebot entfernen möchten? Es werden auch "
+"alle damit verknüpften Termine gelöscht. Wenn Sie das Angebot nur temporär "
+"deaktivieren möchten, können Sie dazu den Status setzen."
 
 #: lib/views/services/_form.php:247
 msgid "Delete Service"
@@ -3177,7 +3187,7 @@ msgstr ""
 #: lib/views/services/_service_index_item.php:23 
 #: lib/views/steps/_confirmation.php:74
 msgid "Price:"
-msgstr ""
+msgstr "Preis:"
 
 #: lib/views/services/_service_index_item.php:27
 msgid "Buffer:"
@@ -3201,7 +3211,7 @@ msgstr "Erster Tag"
 
 #: lib/views/settings/custom_day_schedule_form.php:12
 msgid "To"
-msgstr ""
+msgstr "Zu"
 
 #: lib/views/settings/custom_day_schedule_form.php:12
 msgid "Pick an End"
@@ -3238,7 +3248,7 @@ msgstr "Stundenplan speichern"
 
 #: lib/views/settings/database_setup.php:2
 msgid "Database Updated"
-msgstr ""
+msgstr "Datenbank aktualisiert"
 
 #: lib/views/settings/general.php:5
 msgid "Appointment Settings"
@@ -3246,7 +3256,7 @@ msgstr "Einstellungen Termine"
 
 #: lib/views/settings/general.php:10
 msgid "Default Appointment Status"
-msgstr ""
+msgstr "Standard-Terminstatus"
 
 #: lib/views/settings/general.php:10
 msgid "Set Default Status"
@@ -3266,7 +3276,7 @@ msgstr ""
 
 #: lib/views/settings/general.php:24
 msgid "Show Appointment End Time"
-msgstr ""
+msgstr "Zeit von Terminende anzeigen"
 
 #: lib/views/settings/general.php:27
 msgid "Disable Verbose Date Output"
@@ -3334,7 +3344,7 @@ msgstr "Einstellungen Design"
 
 #: lib/views/settings/general.php:100
 msgid "Color Scheme for Booking Form"
-msgstr ""
+msgstr "Farbschema für Buchungsformular"
 
 #: lib/views/settings/general.php:103
 msgid "Border Style"
@@ -3398,7 +3408,7 @@ msgstr "Authentifizierung"
 
 #: lib/views/settings/general.php:164
 msgid "Use WordPress users as customers"
-msgstr ""
+msgstr "WordPress Benutzer:innen als Kund:innen verwenden"
 
 #: lib/views/settings/general.php:165
 msgid "Require Customers to Set Account Password"
@@ -3446,7 +3456,7 @@ msgstr "Andere Einstellungen"
 
 #: lib/views/settings/general.php:196
 msgid "Daily Calendar Minimum Height (in pixels)"
-msgstr ""
+msgstr "Minimalhöhe Tageskalender (in Pixeln)"
 
 #: lib/views/settings/general.php:199
 msgid "Shortcode for a book button on customer dashboard"
@@ -3464,7 +3474,7 @@ msgstr ""
 
 #: lib/views/settings/pages.php:2
 msgid "Customer Login"
-msgstr ""
+msgstr "Kund:innen-Login"
 
 #: lib/views/settings/pages.php:4 lib/views/settings/pages.php:15
 msgid "Select Page"
@@ -3472,7 +3482,7 @@ msgstr "Seite auswählen"
 
 #: lib/views/settings/pages.php:13
 msgid "Customer Profile"
-msgstr ""
+msgstr "Kund:innen-Profil"
 
 #: lib/views/settings/payments.php:4
 msgid "Payment Processors"
@@ -3508,7 +3518,7 @@ msgstr ""
 
 #: lib/views/settings/steps.php:1
 msgid "Step Editing"
-msgstr "Schritt bearbeiten"
+msgstr "Buchungsschritt bearbeiten"
 
 #: lib/views/settings/steps.php:24
 msgid "Booking Process Settings"
@@ -3516,11 +3526,11 @@ msgstr "Buchungsprozess-Einstellungen"
 
 #: lib/views/settings/steps.php:29
 msgid "Agent Display"
-msgstr ""
+msgstr "Anzeige Betreuer:in"
 
 #: lib/views/settings/steps.php:32
 msgid "Show Agent Bio Popup"
-msgstr ""
+msgstr "Biographie-Popup von Betreuer:in anzeigen"
 
 #: lib/views/settings/steps.php:33
 msgid "Do not show Agent Name on Summary and Confirmation steps"
@@ -3556,11 +3566,11 @@ msgstr ""
 
 #: lib/views/settings/steps.php:50
 msgid "Show Service Categories"
-msgstr ""
+msgstr "Angebotskategorien anzeigen"
 
 #: lib/views/settings/steps.php:51
 msgid "Skip Verification Step"
-msgstr ""
+msgstr "Überprüfung überspringen"
 
 #: lib/views/settings/steps.php:52
 msgid ""
@@ -3601,16 +3611,16 @@ msgstr "Agent ID#:"
 
 #: lib/views/settings/steps.php:80
 msgid "Customer ID#:"
-msgstr ""
+msgstr "Kund:innen-ID#:"
 
 #: lib/views/settings/steps.php:81 lib/views/shared/_template_variables.php:21 
 #: lib/views/steps/_verify.php:55 lib/views/steps/_verify.php:64
 msgid "Total Price:"
-msgstr ""
+msgstr "Preis insgesamt:"
 
 #: lib/views/settings/steps.php:86
 msgid "Enter Tracking code here"
-msgstr ""
+msgstr "Tracking code eingeben"
 
 #: lib/views/settings/work_periods.php:5
 msgid "General Weekly Schedule"
@@ -3691,7 +3701,7 @@ msgstr ""
 
 #: lib/views/shared/_template_variables.php:41
 msgid "Display Name:"
-msgstr ""
+msgstr "Anzeigename:"
 
 #: lib/views/shared/_template_variables.php:50
 msgid "Full Address:"
@@ -3711,7 +3721,7 @@ msgstr "Details anzeigen"
 
 #: lib/views/steps/_agents.php:39
 msgid "Close Details"
-msgstr ""
+msgstr "Details schließen"
 
 #: lib/views/steps/_confirmation.php:7
 msgid "Print"
@@ -3740,7 +3750,8 @@ msgid ""
 "schedule new appointments?"
 msgstr ""
 "Wir laden Sie dazu ein, ein Kund:innen-Konto zu erstellen. Damit können Sie "
-"alle Ihre Reservierungen sehen und auch selbstständig stornieren!"
+"alle Ihre Reservierungen sehen und auch selbstständig stornieren (wenn diese "
+"Möglichkeit vereinbart wurde)!"
 
 #: lib/views/steps/_confirmation.php:114
 msgid "Create Account"
@@ -3772,7 +3783,7 @@ msgstr "Anmelden"
 
 #: lib/views/steps/_contact.php:40
 msgid "Sign in with Google"
-msgstr ""
+msgstr "Mit Google einloggen"
 
 #: lib/views/steps/_contact_form.php:8
 msgid "Confirm Password"
@@ -3871,7 +3882,7 @@ msgstr ""
 
 #: lib/views/steps/_verify.php:50
 msgid "Balance Due:"
-msgstr ""
+msgstr "Fälliger Betrag:"
 
 #: lib/views/steps/_verify.php:53
 msgid "Deposit Now:"
@@ -3903,11 +3914,11 @@ msgstr "Zusammenfassung"
 
 #: lib/views/steps/start.php:64
 msgid "Total Price"
-msgstr ""
+msgstr "Preis insgesamt"
 
 #: lib/views/transactions/index.php:8 lib/views/transactions/index.php:46
 msgid "Token"
-msgstr ""
+msgstr "Token"
 
 #: lib/views/transactions/index.php:9 lib/views/transactions/index.php:47
 msgid "Booking ID"
@@ -4004,11 +4015,11 @@ msgstr "Zum Dashboard gehen"
 
 #: lib/views/wizard/steps/_form_agent.php:19
 msgid "Upload Agent's Photo"
-msgstr ""
+msgstr "Foto von Betreuer:in hochladen"
 
 #: lib/views/wizard/steps/_form_agent.php:19
 msgid "Remove Agent's Photo"
-msgstr ""
+msgstr "Foto von Betreuer:in entfernen"
 
 #: lib/views/wizard/steps/_form_agent.php:32
 msgid "Save Agent"
@@ -4020,7 +4031,7 @@ msgstr "Dauer (Minuten)"
 
 #: lib/views/wizard/steps/_form_service.php:12
 msgid "Upload Image for Service"
-msgstr ""
+msgstr "Bild für Angebot hochladen"
 
 #: lib/views/wizard/steps/_form_service.php:16
 msgid "Pick Agents for Service"
@@ -4047,7 +4058,7 @@ msgstr "Anfangen!"
 
 #: lib/views/wizard/steps/_list_services.php:23
 msgid "Are you sure you want to remove this service?"
-msgstr ""
+msgstr "Sind Sie sicher, dass Sie dieses Angebot entfernen möchten?"
 
 #: lib/views/wizard/steps/_services.php:2
 msgid "Add Services You Offer"
@@ -4059,6 +4070,9 @@ msgid ""
 "You can set custom schedules and prices for each service in LatePoint admin "
 "panel later."
 msgstr ""
+"Bitte stellen Sie beim Hinzufügen eines Angebots sicher, dass ein/e Betreuer:"
+"in zugewiesen wird. Sie können später für jedes Angebot eigene Zeitpläne und "
+"Preise im LatePoint-Administrationsbereich einstellen."
 
 #: lib/views/wizard/steps/_settings.php:2
 msgid "Add services you offer"
