@@ -15,6 +15,7 @@ http://wpdocs.latepoint.com/how-to-translate-latepoint-plugin-to-your-language/
 - **LatePoint**, the main plugin
   - Upload to: `languages/loco/plugins/latepoint-{locale}.po`
   - Status: fine for regular use. Some longer and/or rare strings remain untranslated.
+  - Error messages remain untranslated.
 - **LatePoint Addon - Locations**
   - Upload to: `languages/loco/plugins/latepoint-locations-{locale}.po` 
   - Status: fine for regular use. Some longer and/or rare strings remain untranslated.
