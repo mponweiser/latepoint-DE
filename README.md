@@ -32,5 +32,3 @@ I am sharing this translation in the hope that someone else will find it useful 
 
 Feel free to contact me: m (dot) ponweiser (at) gmail (dot) com
 or, raise an issue here.
-
-I am interested in helping you with your WordPress site or other translations!
